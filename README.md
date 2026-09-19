@@ -17,40 +17,44 @@ No unnecessary downloads. No complicated setup. Just open the tool you need and 
 
 ToolkitLoop brings practical online tools together in one place for developers, creators, professionals, students and everyday users.
 
-### Developer Tools
+## Explore ToolkitLoop Tools
 
-- JSON Formatter
-- Markdown Viewer
-- Case Converter
+A growing collection of fast, simple and privacy-friendly online tools for everyday tasks.
 
-### Image Tools
+### 🛠️ Developer Tools
 
-- Image Compressor
-- Image Resizer
-- Favicon Generator
-- WebP to PNG / JPG
+- [JSON Formatter](https://toolkitloop.com/json-formatter/) — Format, validate and inspect JSON data directly in your browser.
+- [Markdown Viewer](https://toolkitloop.com/markdown-viewer/) — Preview and read Markdown content with a clean rendered view.
 
-### Text Tools
+### 📝 Text Tools
 
-- Word Counter
-- Character Counter
+- [Case Converter](https://toolkitloop.com/case-converter/) — Convert text between uppercase, lowercase, title case and other common formats.
 
-### Calculators
+### 🖼️ Image Tools
 
-- BMI Calculator
-- Calorie Calculator
-- Mortgage Calculator
-- Percentage Calculator
+- [Favicon Generator](https://toolkitloop.com/favicon-generator/) — Create favicon files for websites from your own image.
+- [WebP to PNG & JPG](https://toolkitloop.com/tools/webp-to-png) — Convert WebP images to PNG or JPG locally in your browser, including batch conversion.
 
-### Converters
+### 🧮 Calculators
 
-- Unit Converter
-- Currency Converter
+- [BMI Calculator](https://toolkitloop.com/health/bmi-calculator) — Calculate adult BMI and view a healthy-weight range based on your height.
+- [Calorie Calculator](https://toolkitloop.com/calorie-calculator) — Estimate daily calories, BMR, TDEE and macros with visible calculation assumptions.
+- [Mortgage Calculator](https://toolkitloop.com/mortgage-calculator/) — Estimate mortgage payments and understand the cost of a home loan.
+- [Percentage Calculator](https://toolkitloop.com/percentage-calculator/) — Quickly solve common percentage calculations and comparisons.
 
-### Generators
+### 🔄 Converters
 
-- QR Code Generator
-- Random Number Generator
+- [Unit Converter](https://toolkitloop.com/unit-converter/) — Convert common measurement units quickly in one place.
+- [Currency Converter](https://toolkitloop.com/currency-converter) — Convert currencies using sourced reference exchange rates while keeping your entered amount in the browser.
+
+### ✨ Generators
+
+- [QR Code Generator](https://toolkitloop.com/qr-code-generator/) — Generate QR codes for links, text and other common content.
+- [Random Number Generator](https://toolkitloop.com/random-number-generator/) — Generate random numbers within a range for everyday tasks.
+
+---
+
+**[Browse all ToolkitLoop tools →](https://toolkitloop.com/tools)**
 
 **[Explore ToolkitLoop →](https://toolkitloop.com)**
 
