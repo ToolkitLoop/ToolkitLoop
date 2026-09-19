@@ -8,8 +8,8 @@ No unnecessary downloads. No complicated setup. Just open the tool you need and 
 
 🌐 **Official Website:** [toolkitloop.com](https://toolkitloop.com)  
 𝕏 **X:** [@toolkitloop](https://x.com/toolkitloop)  
-💼 **LinkedIn:** [ToolkitLoop on LinkedIn](https://www.linkedin.com/in/bowentse)  
-✍️ **Medium:** [ToolkitLoop on Medium](https://medium.com/@bowen_98568)
+💼 **LinkedIn:** [Founder on LinkedIn](https://www.linkedin.com/in/bowentse)  
+✍️ **Medium:** [Founder on Medium](https://medium.com/@bowen_98568)
 
 ---
 
